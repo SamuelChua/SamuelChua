@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samuel Chua! I am a Computer Science & Engineering graduate from the University of California, Los Angeles and an incoming MSE Robotics student at the University of Pennsylvania! 
+My name is Samuel Chua! I am a first-year Robotics Master's student at the University of Pennsylvania and a graduate in Computer Science & Engineering from the University of California, Los Angeles. 
 
 🔭 My research interests are in Agile Autonomy and Foundational Models \
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: [https://www.linkedin.com/in/samuelchuajiacong/](https://www.linkedin.com/in/samuelchuajiacong/) \
