@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samuel Chua! I am a first-year Robotics Master's student at the University of Pennsylvania and a BS graduate in Computer Science & Engineering from the University of California, Los Angeles. 
+My name is Samuel Chua! I am a Robotics Master's student at the University of Pennsylvania under the GRASP Lab and a BS graduate in Computer Science & Engineering from the University of California, Los Angeles. 
 
 🔭 My research interests are Perception-based Autonomy, Semantic Reasoning and Foundational Models \
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: [https://www.linkedin.com/in/samuelchuajiacong/](https://www.linkedin.com/in/samuelchuajiacong/) \
